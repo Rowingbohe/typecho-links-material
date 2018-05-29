@@ -1,6 +1,6 @@
 <?php
 /**
- * 友情链接插件，用于 Material 主题
+ * 友情链接插件，用于 Weibo 主题
  *
  * @package Links
  * @author Hanny
